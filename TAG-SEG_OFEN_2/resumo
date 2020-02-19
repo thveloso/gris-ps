@@ -1,0 +1,2 @@
+Foi utilizado apenas um simples comando de SQL Injection para acessar o site e depois foi feito uma busca pelo robots.txt
+assim encontrando a flag no site no /flag
