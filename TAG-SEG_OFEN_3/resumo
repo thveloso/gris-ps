@@ -1,0 +1,1 @@
+Basicamente checando todos no GDB(com peda) ou procurando no própio código qual o tamanho do buffer e o alvo.
